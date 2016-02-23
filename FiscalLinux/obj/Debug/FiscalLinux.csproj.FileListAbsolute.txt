@@ -1,0 +1,9 @@
+C:\Users\stamen44o\documents\visual studio 2013\Projects\FiscalLinux\FiscalLinux\bin\Debug\FiscalLinux.exe
+C:\Users\stamen44o\documents\visual studio 2013\Projects\FiscalLinux\FiscalLinux\bin\Debug\FiscalLinux.pdb
+C:\Users\stamen44o\documents\visual studio 2013\Projects\FiscalLinux\FiscalLinux\bin\Debug\Interop.FP3530.dll
+C:\Users\stamen44o\documents\visual studio 2013\Projects\FiscalLinux\FiscalLinux\obj\Debug\FiscalLinux.csprojResolveAssemblyReference.cache
+C:\Users\stamen44o\documents\visual studio 2013\Projects\FiscalLinux\FiscalLinux\obj\Debug\FiscalLinux.Form1.resources
+C:\Users\stamen44o\documents\visual studio 2013\Projects\FiscalLinux\FiscalLinux\obj\Debug\FiscalLinux.Properties.Resources.resources
+C:\Users\stamen44o\documents\visual studio 2013\Projects\FiscalLinux\FiscalLinux\obj\Debug\FiscalLinux.csproj.GenerateResource.Cache
+C:\Users\stamen44o\documents\visual studio 2013\Projects\FiscalLinux\FiscalLinux\obj\Debug\FiscalLinux.exe
+C:\Users\stamen44o\documents\visual studio 2013\Projects\FiscalLinux\FiscalLinux\obj\Debug\FiscalLinux.pdb
